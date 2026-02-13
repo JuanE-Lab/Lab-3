@@ -1,1 +1,1 @@
-file:///C:/Users/jescal21/Downloads/base/base/index.html
+https://juane-lab.github.io/Lab-3/
